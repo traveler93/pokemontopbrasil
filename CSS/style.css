@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(88, 78, 78);
+    background-color: gray;
 
 }
 
 .BarraDoLogo {
-    background-image: url("./wallpaperbarra.png");
+    background-image: url("wallpaperbarra.png");
     background-size: cover;
     width: 100%;
     height: 200px;
@@ -22,7 +22,7 @@ body {
   }
   
   .botao {
-    background-color: rgba(0, 0, 0, 0.808);
+    background-color: black;
     border: none;
     color: white;
     padding: 10px 20px;
