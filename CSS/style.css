@@ -5,6 +5,7 @@ body {
 
 .BarraDoLogo {
     background-image: url("CSS/wallpaperbarra.png");
+    overflow: hidden;
     background-size: cover;
     width: 100%;
     height: 200px;
