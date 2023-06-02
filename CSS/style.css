@@ -5,7 +5,10 @@ body {
 
 .BarraDoLogo {
     background-image: url("CSS/wallpaperbarra.png");
-    overflow: auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
     background-size: cover;
     width: 100%;
