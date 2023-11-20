@@ -18,7 +18,7 @@ body {
 }
 
 .barra {
-    background-color: #f1f1f1;
+    background-color: #cf1111;
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ body {
   }
   
   .botao:hover {
-    background-color: #45a049;
+    background-color: #940c0c;
   }
   
   .botao:focus {
