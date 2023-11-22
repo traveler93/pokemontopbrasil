@@ -26,7 +26,7 @@ body {
   }
   
   .botao {
-    background-color: black;
+    background-color: #940c0c;
     border: none;
     color: white;
     padding: 10px 20px;
@@ -39,7 +39,7 @@ body {
   }
   
   .botao:hover {
-    background-color: #940c0c;
+    background-color: #4f0606;
   }
   
   .botao:focus {
